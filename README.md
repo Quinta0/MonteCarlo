@@ -26,3 +26,6 @@ pip install requirements.txt
 ```
 2. Save the script as `portfolio.py`.
 3. Run the script using the command `python portfolio.py` or `py pi.py` if you have installed python from the microsoft store.
+
+### Output
+The output is a histogram of the simulated portfolio returns and summary statistics such as mean return, standard deviation, and Value at Risk (VaR).
